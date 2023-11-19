@@ -1,0 +1,4 @@
+name: Pronouns
+version: '${project.version}'
+main: me.quartz.pronouns.Pronouns
+api-version: '1.20'
